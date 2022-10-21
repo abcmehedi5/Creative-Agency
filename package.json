@@ -4,10 +4,10 @@
   "description": "crative agency ",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "14.X"
   },
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mehedi hassan",
